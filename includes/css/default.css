@@ -1,0 +1,59 @@
+header {
+    background: mediumpurple;
+    padding: 10px 0;
+}
+
+header a {
+    color: #FFF;
+    margin-right: 20px;
+}
+
+section.main-content {
+    padding: 30px 0;
+}
+
+#class-menu {
+    /* border-right: 1px solid cadetblue; */
+}
+
+ul {
+    list-style: none;
+}
+
+li.method {
+    margin-left: 20px;
+}
+
+li.method a {
+    color: #43cc03;
+}
+
+ul.class-methods-list li {
+    margin-right: 40px;
+    padding: .5rem;
+}
+
+#class-admin-menu {
+   /* border-left: 1px solid cadetblue; */
+}
+
+
+input, select {
+    padding: 1px 5px;
+    width: 100%;
+}
+
+
+footer {
+    border-top: 1px solid mediumpurple;
+    padding: 15px 0;
+}
+
+li hr {
+    background-color: #fff;
+    border-top: 2px dashed #8c8b8b;
+}
+
+i.innerMethod {
+    margin-left: 60px;
+}
